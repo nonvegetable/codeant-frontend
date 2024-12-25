@@ -38,7 +38,7 @@ This project is a React-based dashboard for managing repositories. It features a
 1. Clone the repository:
    ```bash
    git clone https://github.com/nonvegetable/codeant-frontend.git
-   cd react-app
+   cd codeant-frontend
    ```
 
 2. Install dependencies:
