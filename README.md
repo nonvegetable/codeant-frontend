@@ -94,5 +94,3 @@ The build output will be in the `build/` folder. Deploy it to your favorite host
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
----
