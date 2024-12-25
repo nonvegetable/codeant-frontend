@@ -62,6 +62,21 @@ This project is a React-based dashboard for managing repositories. It features a
 
 ---
 
+## Navigation
+
+Once the development server is running:
+
+### Login Page:
+
+Navigate to `http://localhost:3000/` to access the login page.
+Enter credentials or interact with the login interface as designed.
+
+### Dashboard:
+
+After login or directly, navigate to `http://localhost:3000/dashboard` to access the main dashboard.
+The dashboard includes the responsive sidebar and repository management features.
+
+---
 ## Available Scripts
 
 - `npm start`: Starts the development server.
